@@ -1,0 +1,5 @@
+print question (What is the last digit of the number 9^100?)
+print solution (ie. actual problem solving(calculate 9 to the power of 100 ))
+calculate 9^100
+get last character
+print character (the answer is 1)
