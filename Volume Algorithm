@@ -1,0 +1,10 @@
+volume = 180
+
+print "What is the volume of a rectangular prism when h = 5cm, l = 12cm and w = 3cm?"
+input user answer of volume
+
+if (user input = volume)
+  print "That is correct"
+
+else 
+  print "This isn't correct. The volume is 180."
