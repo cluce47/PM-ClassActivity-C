@@ -1,4 +1,6 @@
 declare a variable called sets
+sets = 0
 count the number of ways to get 15 (  don't know how?)
 n+(n+1)=15 (one way)
+add 1 to sets if adds to 15
 display results 
