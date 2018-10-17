@@ -1,0 +1,3 @@
+Output the question to the user
+Ask the user to input the area of the circle
+Tell the user if their answer was correct of incorrect. If incorrect tell them the right answer.
