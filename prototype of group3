@@ -1,0 +1,4 @@
+What is the last digit of the number 9^100?
+calculate 9 to the power of 100 
+charAt[-1]
+the answer is 1
