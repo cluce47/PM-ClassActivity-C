@@ -1,0 +1,15 @@
+class Main {
+
+  public static void main(String[] args){
+
+    int x= 8; // define variables
+    int y= 22;
+    int prod= x*y;
+
+    //displays question
+    System.out.println (" What is 8 multiplied by 22?");
+    //displays answer
+    System.out.println (prod+" This is the product.");
+
+  }
+}
