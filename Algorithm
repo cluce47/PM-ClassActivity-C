@@ -1,5 +1,6 @@
 x = 8
 y = 22
+create variable product
 print ("What is the product of x multiplied by y?")
-multiply x by y (8*22)
-display answer (this is the product)
+product = multiply x by y (8*22)
+display 'product' (this is the product)
