@@ -1,0 +1,6 @@
+Define the variable x to equal 0.
+Create a while loop which checks if the equation 2^x + 2^x-1 + 2^x-2 + 2^x-3 = 15
+For each iteration, add 1 to x and check if the equation is true.
+Also in the same iteration, multiply x by -1 and check if the equation is true once again.
+Break the loop when the equation is true.
+Print the string "The four digits are: 2^x, 2^x-1, 2^x-2. 2^x-3."
