@@ -1,0 +1,5 @@
+class RectangularPrism {
+  public static void main(String[] args) {
+    System.out.println("The volume of a rectangular prism with a height of 5 cm, a length of 12 cm, and a width of 3 cm, is " + 5*12*3 + " cm^3.");
+  }
+}
