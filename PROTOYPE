@@ -3,9 +3,5 @@ How many apples did Billy eat on Thursday?
 
 The amount of apples that Billy ate on Thursday was: 15
 create a variable (a)
-for loop:
-on monday a equals 0
-on tuesday a = a + 5
-on wednesday a = a + 5
-on thursday a = a + 5
+repeat 3 times, adding 5 to a each time
 print what the value of a is.
