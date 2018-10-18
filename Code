@@ -1,6 +1,8 @@
 class Main {
   public static void main(String[] args) {
     int sets=0;
+    
+    //calculate consecutive #s
     for(int n=0; n<=7; n++) {
       if (n+(n+1)+(n+2)+(n+3)+(n+4)==15){
         sets = sets+1;
@@ -15,14 +17,13 @@ class Main {
         sets=sets+1;
       } 
     }
+    
     System.out.println("There are " + sets + " ways to get 15 using the sum of at least 2 positive integers");
     
     //print how many ways
-    
     System.out.println("The " + sets + " ways are :");
 
     //display numbers that add to 15
-    
     System.out.println("1 + 2 + 3 + 4 + 5");
     System.out.println("4 + 5 + 6");
     System.out.println("7 + 8");
