@@ -7,7 +7,8 @@ class Main {
     int product = x*y;
 
     //displays question
-    System.out.println(" What is 8 multiplied by 22?");
+    System.out.println("What is " + x + " multiplied by " + y + "?");
+    //Changed output to display variables so program is useful in more than one senario
     //displays answer
     System.out.println(product + " This is the product.");
 
