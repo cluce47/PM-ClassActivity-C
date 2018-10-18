@@ -1,0 +1,26 @@
+public class Main {
+  
+  public static void main(String[] args){
+    
+    int x = 0;
+    double y = Math.pow(2,x) + Math.pow(2,(x-1)) + Math.pow(2,(x-2)) + Math.pow(2,(x-3));
+    while ( y != 15) {
+      
+      if ( x >= 0){
+        x = x++;
+      }
+      else {
+        x = x--;
+      }
+      
+    if (y == 15) {
+      break;
+        
+    } else {
+      x = x*-1;
+        
+    System.out.print(Math.pow(2,(x-1)));
+      }
+    }
+  }
+}
