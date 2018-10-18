@@ -3,7 +3,7 @@ class Main {
      //Changes have been made to make it work for multiple itterations
     public static void main(String[] args) {
       int a = 0;
-      int apples = 75;
+      int apples = 50;
       
       while (5*a + 5*(a+1) + 5*(a+2) + 5*(a+3) + 5*(a+4) != apples) {
       
