@@ -1,8 +1,14 @@
 class Main {
+     //The code written only worked for a single itteration of this question
+     //Changes have been made to make it work for multiple itterations
     public static void main(String[] args) {
-      int a = 5;
-      for (int i = 0; i < 2; i++) {
-      a = a + 5;
+      int a = 0;
+      int apples = 75;
+      
+      while (5*a + 5*(a+1) + 5*(a+2) + 5*(a+3) + 5*(a+4) != apples) {
+      
+      a++;
       }
-      System.out.println(a);
-}}
+    System.out.println("The number of apples eaten on Thursday was: "+ 5*(a+3));
+  }
+}
