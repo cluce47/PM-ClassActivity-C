@@ -2,6 +2,7 @@ Billy ate 50 apples between Monday and Friday, and not eating any over the weeke
 How many apples did Billy eat on Thursday?
 
 The amount of apples that Billy ate on Thursday was: 15
-create a variable (a)
-repeat 3 times, adding 5 to a each time
+
+create a variable a to equal 5
+add 5 to a and repeat this 4 times (Monday - Thursday)
 print what the value of a is.
