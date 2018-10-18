@@ -1,9 +1,12 @@
+import static java.lang.Math.pow;
+//import math to allow later usage of square function
 class LastDigit {
   public static void main(String[] args){
     
-    num = 9;
-    power = Math.pow(num,100);
-    
+    double num = 9;
+    //double was added to cast variable num
+    double power = Math.pow(num,100);
+    //double was added to cast variable power
     System.out.println(power % 10);
   }
 }
