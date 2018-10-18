@@ -1,0 +1,4 @@
+The final product doesn't solve the problem. The output should be 1 but the code outputs 2.0. 
+In order to fix it, you could consider converting the number into a string and then printing out the last character. 
+Also, you could try documenting the code in order to help the reader understand.
+Other than that, the program is well written and no documents are missing.
