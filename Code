@@ -1,0 +1,9 @@
+class LastDigit {
+  public static void main(String[] args){
+    
+    num = 9;
+    power = Math.pow(num,100);
+    
+    System.out.println(power % 10);
+  }
+}
