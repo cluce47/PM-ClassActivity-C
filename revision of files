@@ -1,0 +1,16 @@
+OVERALL NOTES
+- unclear if the question requires user to input answer or not (algorithm has user input, code does not)
+
+PROTOTYPE
+- user friendly
+- simple
+- exquisite 
+
+ALGORITHM
+- clear
+- as little steps as possible
+- improvement -- let user try again if their answer is incorrect
+
+CODE
+- efficient (just one line)
+- clear
