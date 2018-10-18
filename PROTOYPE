@@ -1,0 +1,8 @@
+Billy ate 50 apples between Monday and Friday, and not eating any over the weekend. Each day, he ate 5 more apples than he did the previous day. 
+How many apples did Billy eat on Thursday?
+
+The amount of apples that Billy ate on Thursday was: 15
+
+create a variable a to equal 5
+add 5 to a and repeat this times (Monday - Thursday)
+print what the value of a is.

@@ -1,0 +1,9 @@
+class Main {
+    public static void main(String[] args) {
+      int a = 5;
+      int i; //[2:32 PM/18/10/2018] declared var 'i' and casted as int before loop
+      for (i = 0; i < 2; i++) {
+      a = a + 5;
+      }
+      System.out.println(a);
+}}
