@@ -1,0 +1,12 @@
+This program does NOT work. The variable being checked does not change and so the loop never ends, meaning it is a broken 
+program that does not run properly and therefore, can't be released.
+
+SUCCESSES: It is organized nicely.
+PROBLEMS:Code doesn't work, no commenting, original code forgot brackets
+
+It is user friendly if it had worked. It still is organized nicely. 
+
+To improve the code, the while condition has to be changed to stop it from looping infinitely. More testing and a check of the
+logic and syntax will make the code work.
+
+There is documentation missing from the entire program that makes the program harder to understand for other coders.

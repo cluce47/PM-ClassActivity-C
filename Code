@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+ int r =34;
+double area= Math.PI * Math.pow(r,2);
+System.out.print (area);
+  }
+}
+  
